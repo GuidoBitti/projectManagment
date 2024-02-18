@@ -1,7 +1,7 @@
 import NewTask from "./NewTask"
 
 export default function Tasks(){
-    return <div className="w-screen pl-96 pt-5 mb-5">
+    return <div className="w-full pl-96 pt-5 mb-5">
         <h1 className="text-3xl text-stone-700 font-bold">
             Tasks
         </h1>
